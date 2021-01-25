@@ -17,6 +17,6 @@ Desenvolvimento de uma API do zero: utilizando com a linguagem Python, e utiliza
 <a href="#information_source-how-to-use">Como usar</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
 <a href="#gift-contributing">Contribuição</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-<img  width="100%"  src="https://i.imgur.com/ScNyT7d.png">
-<img  width="100%"  src="https://imgur.com/cQgYSBy">
+<img  width="100%"  src="https://i.imgur.com/pzfIaz8.png">
+<img  width="100%"  src="https://i.imgur.com/cQgYSBy.png">
 </div>
