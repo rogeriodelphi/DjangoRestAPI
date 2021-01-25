@@ -18,5 +18,5 @@ Desenvolvimento de uma API do zero: utilizando com a linguagem Python, e utiliza
 <a href="#gift-contributing">Contribuição</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 <img  width="100%"  src="https://i.imgur.com/ScNyT7d.png">
-<img  width="100%"  src="https://i.imgur.com/kfoftIU.png">
+<img  width="100%"  src="https://imgur.com/cQgYSBy">
 </div>
