@@ -13,7 +13,7 @@
 
 
     <!-- Nav Menu -->
-    <a  href=#telescope-tecnologias>Tecnologias</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+    <a  href=#telescope-tecnologias>Tecnologias utilizadas</a>&nbsp;&nbsp;|&nbsp;&nbsp;
     <a href="#information_source-how-to-use">Como usar</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
     <a href="#gift-contributing">Contribuição</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <a  href="https://github.com/rogeriodelphi/DjangoRestAPI/LICENSE">
@@ -25,24 +25,24 @@
 
 ---
 
-### :rocket: Tecnologias utilizadas:
+### :rocket: Tecnologias utilizadas
 - [Python](https://www.python.org/)
 - [Dango Rest Full](https://www.django-rest-framework.org/)
 - [SQLite](https://www.sqlite.org/index.html)
 
 ---
 
-### :information_source: Como usar:
+### :information_source: Como usar
 
 Para clonar este aplicativo, você precisará do [Git] (https://git-scm.com) instalado em seu computador.
 Na linha de comando:
 
 ```bash
-# Para clonar este repositório:
+# Para clonar este repositório
 $ git clone https://github.com/rogeriodelphi/DjangoRestAPI.git
 
 ```
 ---
 
-### :gift: Contributing
+### :gift: Contribuição
 Todas os pull requests são bem-vindos. Fiquem a vontade para contribuir com esse pequeno projeto.
