@@ -1,15 +1,22 @@
 <div align="center">
-<!-- Top Image and Title -->
-<h1>DjangoRestAP</h1>
+    <h1>Django Rest API - Escola</h1>
+</div>
 
-<!-- Subtitle/Description -->
-Desenvolvimento de uma API do zero: utilizando com a linguagem Python, e utilizando modelos, serializers e views.
+## Desenvolvimento de uma API com Django 3.
+### Nesse código foram abordados os conceitos de:
+* ##### utilização da arquitetura Django Rest API;
+* ##### uso de lógica de programação separadas com serializers e validators;
+* #### Controle de versionamento com "Query Parameter Versioning";
+
+<div align="center">
+
 <p>
 <!-- Image Shields -->
 <img  alt="Languages Count"  src="https://img.shields.io/github/languages/count/rogeriodelphi/DjangoRestAPI">
 <img  alt="Last Commit"  src="https://img.shields.io/github/last-commit/rogeriodelphi/DjangoRestAPI">
 <img  alt="Repo Size"  src="https://img.shields.io/github/repo-size/rogeriodelphi/DjangoRestAPI">
 </p>
+
 
 
 <!-- Nav Menu -->
