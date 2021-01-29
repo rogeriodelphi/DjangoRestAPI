@@ -7,7 +7,7 @@
 * ##### utilização da arquitetura Django Rest API;
 * ##### uso de lógica de programação separadas com serializers e validators;
 * #### Controle de versionamento com "Query Parameter Versioning";
-
+* #### Permissões de acordo com configurações no Admin
 <div align="center">
 
 <p>
