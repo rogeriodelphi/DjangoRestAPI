@@ -4,7 +4,7 @@ from escola.models import Aluno, Curso, Matricula
 from .serializer import AlunoSerializer, CursoSerializer, MatriculaSerializer, \
     ListaMatriculasAlunoSerializer, ListaAlunosMatriculadosSerializer, AlunoSerializerV2
 # from rest_framework.authentication import BasicAuthentication
-from rest_framework.permissions import IsAuthenticated, DjangoModelPermissions
+# from rest_framework.permissions import IsAuthenticated, DjangoModelPermissions
 
 class AlunosViewSet(viewsets.ModelViewSet):
     """Exibindo todos os aluno e alunas"""
@@ -17,7 +17,6 @@ class AlunosViewSet(viewsets.ModelViewSet):
         else:
             return AlunoSerializer
 
-
 class CursosViewSet(viewsets.ModelViewSet):
     """Exibindo todos os cursos"""
     queryset = Curso.objects.all()
@@ -29,6 +28,7 @@ class MatriculasViewSet(viewsets.ModelViewSet):
     """Exibindo todas as matrículas"""
     queryset = Matricula.objects.all()
     serializer_class = MatriculaSerializer
+    http_method_names = ['get','post', 'put', 'path']
     # authentication_classes = [BasicAuthentication]
     # permission_classes = [IsAuthenticated,DjangoModelPermissions]
 
