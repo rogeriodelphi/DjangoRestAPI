@@ -9,7 +9,9 @@
 * #### Controle de versionamento com "Query Parameter Versioning";
 * #### Permissões de acordo com configurações no Admin;
 * #### Uso do método HTTP para limitar as requisições de acordo com verbo em uso('get','post', 'put', 'delete');
-* #### Limitando a quantidade exata de ações para um usuário qualquer ou um anônimo;
+* #### Definindo a quantidade exata de ações para um usuário qualquer ou um anônimo;
+* #### Criação de Location;
+
 
 <div align="center">
 
